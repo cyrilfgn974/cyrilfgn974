@@ -4,13 +4,17 @@
 
 Welcome to my GitHub profile. You will some engineering-school projects and some personal works.
 
+🎓 Engineering-student Projects
+- Deep Learning Project: Image Classification (project in progress) 
+- Map Reduce algorithm project (project in progress)
+- Mini-C Compiler (project in progess)
+
 
 🌐 Web-Developer
 - Visit my personal website : https://cfiguin.fr/
 - Visit my E-Portfolio : https://cfiguin.fr/eportfolio/
 
-🎓 Engineering-student Projects
-(soon)
+
 
 
 
@@ -35,7 +39,7 @@ Welcome to my GitHub profile. You will some engineering-school projects and some
 - Java
 - CMS (Content System Manager)
   - WordPress
-  - Prestashop 
+  - Prestashop
 
 ### Soft-Skills
 - Agile methods
