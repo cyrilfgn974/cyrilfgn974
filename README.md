@@ -5,6 +5,7 @@
 Welcome to my GitHub profile. You will some engineering-school projects and some personal works.
 
 🎓 Engineering-student Projects
+- Web Application project : Social Network for Artists who wants to share their creations.
 - Deep Learning Project: Image Classification (project in progress) 
 - Map Reduce algorithm project (project in progress)
 - Mini-C Compiler (project in progess)
