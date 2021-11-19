@@ -35,7 +35,8 @@ Welcome to my GitHub profile. You will some engineering-school projects and some
   - Stylus
   - SCSS  
 - JavaScript (learning in progress)
-  - React JS (learning in progress)  
+- TypeScript (learning in progress)
+- NodeJS (learning in progress)
 - Django (learning in progress)
 - Java
 - CMS (Content System Manager)
@@ -48,7 +49,7 @@ Welcome to my GitHub profile. You will some engineering-school projects and some
 - Leadership skills
 
 ### Multimedia
-- SUITE ADOBE
+- Adobe :
   - Adobe Premiere Pro
     - Video editing
     - video color correction
