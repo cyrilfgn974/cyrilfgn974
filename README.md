@@ -65,10 +65,15 @@ Welcome to my GitHub profile. You will some engineering-school projects and some
 
 ## My work environment
 
-- Laptop
+- Personal Laptop
   - Intel Core i7-10750H CPU - 2.60GHz
   - NVIDIA RTX 2060 (for a better streaming)
   - 16Go RAM
+  - OS :
+    - DualBoot :
+      - Windows 11
+      - Ubuntu 22.04 LTS 
+ 
 - IDE
   - Visual Studio Code (principal IDE)
   - Android Studio (Java for Android)
