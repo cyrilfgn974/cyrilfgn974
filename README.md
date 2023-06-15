@@ -12,7 +12,7 @@ Welcome to my GitHub profile. You will some engineering-school projects and some
 
 
 🌐 Web-Developer
-- New version (development in progress) of my E-Portfolio : https://github.com/cyrilfgn974/cfiguin_portfolio
+- New version (development in progress) of my E-Portfolio : https://github.com/cyrilfgn974/cfiguin_fr
 - Visit my personal website : https://cfiguin.fr/
 - Visit my E-Portfolio : https://cfiguin.fr/eportfolio/
 
