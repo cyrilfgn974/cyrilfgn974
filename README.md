@@ -1,6 +1,6 @@
 ![Cover](https://github.com/cyrilfgn974/cyrilfgn974/blob/main/header.png)
 # Cyril FIGUIN
-## Engineering student and sometimes Web-Developer
+## IT Engineer
 
 Welcome to my GitHub profile. You will some engineering-school projects and some personal works.
 
